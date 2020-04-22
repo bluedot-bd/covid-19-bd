@@ -1,0 +1,34 @@
+[
+    {
+        "division": "Barishal",
+        "total": "80"
+    },
+    {
+        "division": "Chattogram",
+        "total": "144"
+    },
+    {
+        "division": "Dhaka",
+        "total": "2324"
+    },
+    {
+        "division": "Khulna",
+        "total": "24"
+    },
+    {
+        "division": "Mymensingh",
+        "total": "133"
+    },
+    {
+        "division": "Rajshahi",
+        "total": "25"
+    },
+    {
+        "division": "Rangpur",
+        "total": "60"
+    },
+    {
+        "division": "Sylhet",
+        "total": "20"
+    }
+]
