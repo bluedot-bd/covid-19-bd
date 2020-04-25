@@ -1,7 +1,7 @@
 [
     {
         "district": "B. Baria",
-        "total": "25"
+        "total": "29"
     },
     {
         "district": "Bagerhat",
@@ -17,7 +17,7 @@
     },
     {
         "district": "Barishal",
-        "total": "35"
+        "total": "38"
     },
     {
         "district": "Bhola",
@@ -25,7 +25,7 @@
     },
     {
         "district": "Bogra",
-        "total": "11"
+        "total": "12"
     },
     {
         "district": "Chandpur",
@@ -37,7 +37,7 @@
     },
     {
         "district": "Chattogram",
-        "total": "47"
+        "total": "48"
     },
     {
         "district": "Chuadanga",
@@ -49,15 +49,15 @@
     },
     {
         "district": "Cumilla",
-        "total": "33"
+        "total": "40"
     },
     {
         "district": "Dhaka (District)",
-        "total": "64"
+        "total": "72"
     },
     {
         "district": "Dhaka City",
-        "total": "3221"
+        "total": "3111"
     },
     {
         "district": "Dinajpur",
@@ -65,7 +65,7 @@
     },
     {
         "district": "Faridpur",
-        "total": "8"
+        "total": "9"
     },
     {
         "district": "Feni",
@@ -73,23 +73,23 @@
     },
     {
         "district": "Gaibandha",
-        "total": "18"
+        "total": "20"
     },
     {
         "district": "Gazipur",
-        "total": "295"
+        "total": "262"
     },
     {
         "district": "Gopalganj",
-        "total": "43"
+        "total": "46"
     },
     {
         "district": "Hobiganj",
-        "total": "21"
+        "total": "41"
     },
     {
         "district": "Jamalpur",
-        "total": "30"
+        "total": "37"
     },
     {
         "district": "Jessore",
@@ -109,11 +109,11 @@
     },
     {
         "district": "Kishoreganj",
-        "total": "180"
+        "total": "181"
     },
     {
         "district": "Kurigram",
-        "total": "5"
+        "total": "3"
     },
     {
         "district": "Kushtia",
@@ -121,7 +121,7 @@
     },
     {
         "district": "Laksmipur",
-        "total": "27"
+        "total": "28"
     },
     {
         "district": "Lalmonirhat",
@@ -129,7 +129,7 @@
     },
     {
         "district": "Madaripur",
-        "total": "37"
+        "total": "30"
     },
     {
         "district": "Magura",
@@ -149,11 +149,11 @@
     },
     {
         "district": "Munshigonj",
-        "total": "63"
+        "total": "62"
     },
     {
         "district": "Mymensingh",
-        "total": "68"
+        "total": "87"
     },
     {
         "district": "Naogaon",
@@ -165,7 +165,7 @@
     },
     {
         "district": "Narayanganj",
-        "total": "585"
+        "total": "613"
     },
     {
         "district": "Narshingdi",
@@ -177,7 +177,7 @@
     },
     {
         "district": "Netrokona",
-        "total": "22"
+        "total": "25"
     },
     {
         "district": "Nilphamari",
@@ -185,7 +185,7 @@
     },
     {
         "district": "Noakhali",
-        "total": "4"
+        "total": "5"
     },
     {
         "district": "Pabna",
@@ -197,27 +197,27 @@
     },
     {
         "district": "Pirojpur",
-        "total": "5"
+        "total": "7"
     },
     {
         "district": "Potuakhali",
-        "total": "16"
+        "total": "19"
     },
     {
         "district": "Rajbari",
-        "total": "11"
+        "total": "12"
     },
     {
         "district": "Rajshahi",
-        "total": "13"
+        "total": "14"
     },
     {
         "district": "Rangpur",
-        "total": "15"
+        "total": "18"
     },
     {
         "district": "Shariatpur",
-        "total": "11"
+        "total": "14"
     },
     {
         "district": "Sherpur",
@@ -237,10 +237,10 @@
     },
     {
         "district": "Tangail",
-        "total": "21"
+        "total": "22"
     },
     {
         "district": "Thakurgaon",
-        "total": "8"
+        "total": "7"
     }
 ]
