@@ -7,19 +7,19 @@
 ======================================
 
 Processing is not final
-* Gaibandha / Gaibandha (-1)
-* Faridpur / Faridpur (-1)
-* Chattogram / Chattogram (-2)
-* Bagerhat / Bagerhat (-1)
-* Meherpur / Meherpur (-1)
-* Madaripur / Madaripur (-9)
-* Chattogram / Chattogram (-2)
-* Cox’s bazar / Cox’s bazar (-1)
-* Gaibandha / Gaibandha (-4)
-* Gazipur / Gazipur (-33)
-* Munshigonj / Munshigonj (-1)
-* Kurigram / Kurigram (-2)
-* Thakurgaon / Thakurgaon (-1)
+* 2020-04-17 / Gaibandha (-1)
+* 2020-04-21 / Faridpur (-1)
+* 2020-04-21 / Chattogram (-2)
+* 2020-04-21 / Bagerhat (-1)
+* 2020-04-23 / Meherpur (-1)
+* 2020-04-24 / Madaripur (-9)
+* 2020-04-24 / Chattogram (-2)
+* 2020-04-24 / Cox’s bazar (-1)
+* 2020-04-24 / Gaibandha (-4)
+* 2020-04-25 / Gazipur (-33)
+* 2020-04-25 / Munshigonj (-1)
+* 2020-04-25 / Kurigram (-2)
+* 2020-04-25 / Thakurgaon (-1)
 
 
 ======================================
