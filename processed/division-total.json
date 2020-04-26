@@ -1,34 +1,38 @@
 [
     {
         "division": "Barishal",
-        "total": "103"
+        "total": "111"
     },
     {
         "division": "Chattogram",
-        "total": "170"
-    },
-    {
-        "division": "Dhaka",
-        "total": "4567"
+        "total": "185"
     },
     {
         "division": "Khulna",
-        "total": "38"
+        "total": "65"
     },
     {
         "division": "Mymensingh",
-        "total": "168"
+        "total": "181"
     },
     {
         "division": "Rajshahi",
-        "total": "34"
+        "total": "38"
     },
     {
         "division": "Rangpur",
-        "total": "72"
+        "total": "76"
     },
     {
         "division": "Sylhet",
-        "total": "69"
+        "total": "79"
+    },
+    {
+        "district": "Dhaka City",
+        "total": "2485"
+    },
+    {
+        "district": "Dhaka",
+        "total": "1570"
     }
 ]
