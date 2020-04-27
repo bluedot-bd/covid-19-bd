@@ -7574,5 +7574,661 @@
         "district": "Dhaka City",
         "location": "Total",
         "cases": 257
+    },
+    {
+        "id": 948,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka (District)",
+        "location": "",
+        "cases": 6
+    },
+    {
+        "id": 949,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Gazipur",
+        "location": "",
+        "cases": 7
+    },
+    {
+        "id": 950,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Kishoreganj",
+        "location": "",
+        "cases": 8
+    },
+    {
+        "id": 951,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Madaripur",
+        "location": "",
+        "cases": 6
+    },
+    {
+        "id": 952,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Manikganj",
+        "location": "",
+        "cases": 3
+    },
+    {
+        "id": 953,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Narayanganj",
+        "location": "",
+        "cases": 74
+    },
+    {
+        "id": 954,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Munshigonj",
+        "location": "",
+        "cases": 6
+    },
+    {
+        "id": 955,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Tangail",
+        "location": "",
+        "cases": 1
+    },
+    {
+        "id": 956,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Gopalganj",
+        "location": "",
+        "cases": 1
+    },
+    {
+        "id": 957,
+        "date": "2020-04-27",
+        "division": "Chattogram",
+        "district": "Chattogram",
+        "location": "",
+        "cases": 8
+    },
+    {
+        "id": 958,
+        "date": "2020-04-27",
+        "division": "Chattogram",
+        "district": "Cumilla",
+        "location": "",
+        "cases": 1
+    },
+    {
+        "id": 959,
+        "date": "2020-04-27",
+        "division": "Chattogram",
+        "district": "B. Baria",
+        "location": "",
+        "cases": 4
+    },
+    {
+        "id": 960,
+        "date": "2020-04-27",
+        "division": "Chattogram",
+        "district": "Laksmipur",
+        "location": "",
+        "cases": 3
+    },
+    {
+        "id": 961,
+        "date": "2020-04-27",
+        "division": "Sylhet",
+        "district": "Moulovi Bazar",
+        "location": "",
+        "cases": 6
+    },
+    {
+        "id": 962,
+        "date": "2020-04-27",
+        "division": "Sylhet",
+        "district": "Sunamganj",
+        "location": "",
+        "cases": 1
+    },
+    {
+        "id": 963,
+        "date": "2020-04-27",
+        "division": "Sylhet",
+        "district": "Hobiganj",
+        "location": "",
+        "cases": 1
+    },
+    {
+        "id": 964,
+        "date": "2020-04-27",
+        "division": "Sylhet",
+        "district": "Sylhet",
+        "location": "",
+        "cases": 2
+    },
+    {
+        "id": 965,
+        "date": "2020-04-27",
+        "division": "Rangpur",
+        "district": "Rangpur",
+        "location": "",
+        "cases": 1
+    },
+    {
+        "id": 966,
+        "date": "2020-04-27",
+        "division": "Rangpur",
+        "district": "Gaibandha",
+        "location": "",
+        "cases": 1
+    },
+    {
+        "id": 967,
+        "date": "2020-04-27",
+        "division": "Rangpur",
+        "district": "Kurigram",
+        "location": "",
+        "cases": 3
+    },
+    {
+        "id": 968,
+        "date": "2020-04-27",
+        "division": "Rangpur",
+        "district": "Thakurgaon",
+        "location": "",
+        "cases": 1
+    },
+    {
+        "id": 969,
+        "date": "2020-04-27",
+        "division": "Khulna",
+        "district": "Khulna",
+        "location": "",
+        "cases": 1
+    },
+    {
+        "id": 970,
+        "date": "2020-04-27",
+        "division": "Khulna",
+        "district": "Jessore",
+        "location": "",
+        "cases": 4
+    },
+    {
+        "id": 971,
+        "date": "2020-04-27",
+        "division": "Khulna",
+        "district": "Narail",
+        "location": "",
+        "cases": 3
+    },
+    {
+        "id": 972,
+        "date": "2020-04-27",
+        "division": "Khulna",
+        "district": "Jhenaidah",
+        "location": "",
+        "cases": 4
+    },
+    {
+        "id": 973,
+        "date": "2020-04-27",
+        "division": "Khulna",
+        "district": "Kushtia",
+        "location": "",
+        "cases": 6
+    },
+    {
+        "id": 974,
+        "date": "2020-04-27",
+        "division": "Mymensingh",
+        "district": "Mymensingh",
+        "location": "",
+        "cases": 16
+    },
+    {
+        "id": 975,
+        "date": "2020-04-27",
+        "division": "Mymensingh",
+        "district": "Sherpur",
+        "location": "",
+        "cases": 4
+    },
+    {
+        "id": 976,
+        "date": "2020-04-27",
+        "division": "Rajshahi",
+        "district": "Joypurhat",
+        "location": "",
+        "cases": 4
+    },
+    {
+        "id": 977,
+        "date": "2020-04-27",
+        "division": "Rajshahi",
+        "district": "Pabna",
+        "location": "",
+        "cases": -1
+    },
+    {
+        "id": 978,
+        "date": "2020-04-27",
+        "division": "Rajshahi",
+        "district": "Bogra",
+        "location": "",
+        "cases": 5
+    },
+    {
+        "id": 979,
+        "date": "2020-04-27",
+        "division": "Rajshahi",
+        "district": "Naogaon",
+        "location": "",
+        "cases": -1
+    },
+    {
+        "id": 980,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Azimpur",
+        "cases": 1
+    },
+    {
+        "id": 981,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Badda",
+        "cases": 1
+    },
+    {
+        "id": 982,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Cantonment",
+        "cases": 2
+    },
+    {
+        "id": 983,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Chankharpool",
+        "cases": 3
+    },
+    {
+        "id": 984,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Demra",
+        "cases": 1
+    },
+    {
+        "id": 985,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Dhanmondi",
+        "cases": 5
+    },
+    {
+        "id": 986,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Elephant Road",
+        "cases": 1
+    },
+    {
+        "id": 987,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Farmgate",
+        "cases": 2
+    },
+    {
+        "id": 988,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Gendaria",
+        "cases": 1
+    },
+    {
+        "id": 989,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Gopibag",
+        "cases": 2
+    },
+    {
+        "id": 990,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Gulshan",
+        "cases": 1
+    },
+    {
+        "id": 991,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Hazaribagh",
+        "cases": 2
+    },
+    {
+        "id": 992,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Jatrabari",
+        "cases": 2
+    },
+    {
+        "id": 993,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Kakrail",
+        "cases": 11
+    },
+    {
+        "id": 994,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Kamrangir Char",
+        "cases": 4
+    },
+    {
+        "id": 995,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Kazi para",
+        "cases": 1
+    },
+    {
+        "id": 996,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Kawran Bazar",
+        "cases": 1
+    },
+    {
+        "id": 997,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Khilgaon",
+        "cases": 1
+    },
+    {
+        "id": 998,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Kotowali",
+        "cases": 1
+    },
+    {
+        "id": 999,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Lalbagh",
+        "cases": 6
+    },
+    {
+        "id": 1000,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Laxmibazar",
+        "cases": 1
+    },
+    {
+        "id": 1001,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Malibagh",
+        "cases": 5
+    },
+    {
+        "id": 1002,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Mirhajaribagh",
+        "cases": 1
+    },
+    {
+        "id": 1003,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Mirpur-1",
+        "cases": 3
+    },
+    {
+        "id": 1004,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Mirpur-2",
+        "cases": 1
+    },
+    {
+        "id": 1005,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Mirpur-10",
+        "cases": 2
+    },
+    {
+        "id": 1006,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Mirpur-11",
+        "cases": 2
+    },
+    {
+        "id": 1007,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Mirpur-12",
+        "cases": 2
+    },
+    {
+        "id": 1008,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Mirpur-14",
+        "cases": 1
+    },
+    {
+        "id": 1009,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Mogbazar",
+        "cases": 3
+    },
+    {
+        "id": 1010,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Mohakhali",
+        "cases": 4
+    },
+    {
+        "id": 1011,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Mohammadpur",
+        "cases": 3
+    },
+    {
+        "id": 1012,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Rajarbagh",
+        "cases": 11
+    },
+    {
+        "id": 1013,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Rampura",
+        "cases": 2
+    },
+    {
+        "id": 1014,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Ramna",
+        "cases": 1
+    },
+    {
+        "id": 1015,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Rayerbagh",
+        "cases": 1
+    },
+    {
+        "id": 1016,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Sabujbagh",
+        "cases": 3
+    },
+    {
+        "id": 1017,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Sahjanpur",
+        "cases": 1
+    },
+    {
+        "id": 1018,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Segunbagicha",
+        "cases": 2
+    },
+    {
+        "id": 1019,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Shahbag",
+        "cases": 2
+    },
+    {
+        "id": 1020,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Shakharibazar",
+        "cases": 1
+    },
+    {
+        "id": 1021,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Shantibagh",
+        "cases": 1
+    },
+    {
+        "id": 1022,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Shantinagar",
+        "cases": 1
+    },
+    {
+        "id": 1023,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "TatiBazar",
+        "cases": 1
+    },
+    {
+        "id": 1024,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Tejkunipara",
+        "cases": 1
+    },
+    {
+        "id": 1025,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Tejgaon",
+        "cases": 4
+    },
+    {
+        "id": 1026,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Uttara",
+        "cases": 4
+    },
+    {
+        "id": 1027,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Vatara",
+        "cases": 1
+    },
+    {
+        "id": 1028,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Wari",
+        "cases": 1
+    },
+    {
+        "id": 1029,
+        "date": "2020-04-27",
+        "division": "Dhaka",
+        "district": "Dhaka City",
+        "location": "Total",
+        "cases": 232
     }
 ]
